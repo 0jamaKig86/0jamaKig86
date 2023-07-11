@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hung Cuong</h1>
+<h1 align="center">Hi 👋, I'm Hung Cuong</h1> <a href="https://actvn.edu.vn" target="_blank" rel="noreferrer"> <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-Hoc-Vien-Ky-Thuat-Mat-Ma-ACTVN.png" width="40" height="40"/>
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Information Security in Academy of Cryptography Techniques** <a href="https://actvn.edu.vn" target="_blank" rel="noreferrer"> <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-Hoc-Vien-Ky-Thuat-Mat-Ma-ACTVN.png" width="40" height="40"/>
+- 🌱 I’m currently learning **Information Security in Academy of Cryptography Techniques** 
 
 - 👨‍💻 All of my projects are available at [here](here)
 
