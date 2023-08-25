@@ -10,8 +10,7 @@
 - 💬 Ask me about **cybersecurity**
 
 - 📫 How to reach me **danghungcuong9833@gmail.com**
-
-- My username is **cuongchien** ¯\_(ツ)_/¯ ¯\_(ツ)_/¯.
+- My username is **cuongchien** ¯\_(ツ)_/¯ ¯\_(ツ)_/¯
 
 
 <h3 align="left">Programming Languages:</h3>
