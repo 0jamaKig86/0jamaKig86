@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Information Security in Academy of Cryptography Techniques (KMAer)** 
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [[here](here)](https://hackmd.io/@cuongchien).
 
-- 📝 I regularly write articles on [here](here)
+- 📝 I regularly write articles on [[here](here)](https://hackmd.io/@cuongchien).
 
 - 💬 Ask me about **cybersecurity**
 
