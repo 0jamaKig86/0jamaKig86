@@ -3,15 +3,13 @@
 
 - 🌱 I’m currently learning **Information Security in Academy of Cryptography Techniques (KMAer)** 
 
-- 👨‍💻 All of my projects are available at [here](https://hackmd.io/@cuongchien).
-
 - 📝 I regularly write articles on [here](https://hackmd.io/@cuongchien).
 
+- 📫 How to reach me **danghungcuong9833@gmail.com** or [twitter](https://twitter.com/cuongchien86)
+
+- My username is **cuongchien**
+- My CTFtime team is [z1000](https://ctftime.org/team/264445)
 - 💬 Ask me about **cybersecurity**
-
-- 📫 How to reach me **danghungcuong9833@gmail.com**
-- My username is **cuongchien** ¯\_(ツ)_/¯ ¯\_(ツ)_/¯
-
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="java" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40" height="40"/> </p>
